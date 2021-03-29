@@ -1,0 +1,1 @@
+int nfcStartTarget(uint8_t abtTx[], char* buffer);
